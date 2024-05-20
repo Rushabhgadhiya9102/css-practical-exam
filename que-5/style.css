@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.footer-main-container {
+    position: absolute;
+    bottom: 0px;
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url('https://rukosen.com.tr/wp-content/uploads/2018/12/footer-background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: contain;
+    color: white;
+    height: 400px;
+    width: 100%;
+  }
+  
+  footer h2 {
+    text-transform: capitalize;
+    padding-bottom: 20px;
+  }
+  
+  footer p {
+    font-size: large;
+  }
+  
+  #footer-1 {
+    width: 400px;
+    height: 300px;
+    padding: 30px;
+  }
+  
+  #footer-1 > i {
+    font-size: large;
+  }
+  
+  
+  #contact-us {
+    width: 400px;
+    height: 300px;
+    padding: 30px;
+    line-height: 40px;
+  }
+  
+  #newsletter {
+    width: 400px;
+    height: 300px;
+    padding: 30px;
+  }
+  
+  .news-forms > input {
+    padding: 10px 15px;
+    border-radius: 10px;
+  }
+  
